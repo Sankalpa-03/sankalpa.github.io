@@ -1,0 +1,53 @@
+.aside .logo a::before {
+    border-top: 4px solid #fa5b0f;
+    border-left: 4px solid #fa5b0f;
+}
+
+.aside .logo a::after {
+    border-bottom: 4px solid #fa5b0f;
+    border-right: 4px solid #fa5b0f;
+}
+
+.contact .contact-info-item .fas,
+.blog .blog-item-inner .blog-info .blog-tags a,
+.lightbox .lightbox-controls .prev-item .fas,
+.lightbox .lightbox-controls .next-item .fas,
+.portfolio .portfolio-item .portfolio-info .icon .fas,
+.main-content .section-title h2 span,
+.portfolio .portfolio-filter button.active,
+body.dark .portfolio .portfolio-filter button.active,
+.service .service-item .service-iteam-inner .icon .fa,
+.service .service-item .service-iteam-inner .icon .fas,
+.aside .nav li a:hover,
+.about .about-contant .about-text h3 span,
+.aside .nav li a.active,
+body.dark .aside .nav li a.active,
+body.dark .aside .nav li a:hover {
+    color: #fa5b0f;
+}
+
+.aside .nav-toggle span {
+    background-color: #fa5b0f;
+}
+
+.aside .nav-toggle span::before {
+    background-color: #fa5b0f;
+}
+
+.blog .blog-item-inner .blog-img .blog-date,
+.service .service-item .service-iteam-inner:hover .icon,
+.about .about-contant .skills .skill-iteam .progress .progress-in,
+.about .about-contant .timeline .circle-dot,
+.about .about-contant .timeline .timeline-iteam::before,
+.service .service-item .service-iteam-inner .icon:hover,
+.btn,
+.aside .nav-toggle span::after,
+.section-title h2::before,
+.section-title h2::after,
+.home .intro .social-links a {
+    background-color: #fa5b0f;
+}
+
+.portfolio .portfolio-filter button.active {
+    border-color: #fa5b0f;
+}
